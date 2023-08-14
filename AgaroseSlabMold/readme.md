@@ -1,4 +1,4 @@
-![alt text](https://github.com/Laboratory-of-Mol-and-Comp-Genomics/LMCG_CADs/edit/main/AgaroseSlabMold/SlabMoldWithSlabs.png)
+![Image](SlabMoldWithSlabs.png?raw=true)
 
 AgaroseSlabMold15x15xp1.ipt
 - Agarose slab mold makes 8 agarose slabs in the given insets against a glass slide. Slab dimensions are 15 mm X 15 mm X 1 m. 
